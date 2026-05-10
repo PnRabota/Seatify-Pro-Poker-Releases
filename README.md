@@ -1,68 +1,57 @@
-# Seatify Pro Poker
+# ♠ Seatify Pro Poker
 
-**The desktop poker multi-tabling assistant built by grinders, for grinders.**
+> **Poker. Optimized.** — Le gestionnaire multi-tables natif le plus rapide. Placement automatique, hotkeys, app slots, Focus Aura. Construit en Rust.
 
-## Download
-
-Download the latest version from the [Releases page](https://github.com/PnRabota/Seatify-Pro-Poker-Releases/releases/latest).
-
-- **Windows 10/11** (64-bit) only
-- Download the .exe installer (~80 MB)
-- Run the installer and follow the steps
-
-> Windows SmartScreen may show a warning on first run. Click "More info" then "Run anyway".
-
-## What is Seatify Pro?
-
-Seatify Pro is a desktop assistant for online poker multi-tablers. It helps you manage multiple tables with:
-
-- **Auto-Tiling** - Tables automatically snap to your preferred layout
-- **BetBox Overlay** - Quick bet sizing buttons on each table
-- **Hotkeys** - Fold, call, raise with keyboard shortcuts
-- **Layout Editor** - Create and save custom table arrangements
-- **Focus Aura** - Visual highlight on the table that needs your action
-- **HUD Panels** - Session stats, hand counter, position indicator
-
-## Supported Poker Sites
-
-| Site | Status |
-|------|--------|
-| Winamax | Fully supported |
-| PMU Poker | Fully supported |
-| PokerStars | Supported |
-| GGPoker | Supported |
-| Unibet | Supported |
-| CoinPoker | Supported |
-| PartyPoker | Supported |
-| 888Poker | Supported |
-
-## Pricing
-
-**100% free until June 15, 2026** - no credit card required.
-
-After that: 10.99 EUR/month or 99.99 EUR/year (early access pricing).
-
-See [seatifypro.com/pricing](https://seatifypro.com/pricing) for details.
-
-## Getting Started
-
-1. Download and install from the link above
-2. Launch Seatify Pro
-3. Follow the OnboardingWizard to configure your poker site and layout
-4. Open your poker tables - Seatify Pro detects them automatically
-
-Full documentation: [seatifypro.com/docs](https://seatifypro.com/docs)
-
-## Support
-
-- **Email**: contact@seatifypro.com
-- **Documentation**: [seatifypro.com/docs](https://seatifypro.com/docs)
-- **FAQ**: [seatifypro.com/docs/faq](https://seatifypro.com/docs/faq)
-
-## Auto-Updates
-
-Seatify Pro checks for updates automatically. When a new version is available, you will be notified in the app and can update with one click.
+[![Download](https://img.shields.io/github/v/release/PnRabota/Seatify-Pro-Poker-Releases?label=Download&style=for-the-badge)](https://github.com/PnRabota/Seatify-Pro-Poker-Releases/releases/latest)
 
 ---
 
-2026 Seatify Pro Poker. Built by poker players, for poker players.
+## Téléchargement
+
+➡️ **[Dernière version (.exe)](https://github.com/PnRabota/Seatify-Pro-Poker-Releases/releases/latest)**
+
+Windows 10/11 64-bit. Aucun runtime requis (pas de Java, pas de .NET).
+
+---
+
+## Fonctionnalités
+
+| Feature | Description |
+|---------|-------------|
+| 🎯 Auto-Tiling | Tes tables se placent automatiquement dans ton layout |
+| 📐 Layout Editor | Crée des layouts custom avec drag & drop sur ton bureau |
+| ⚡ Layout Generator | Génère un layout optimal en un clic |
+| 🔄 Auto-Switch | Change de layout automatiquement selon le nombre de tables |
+| 🖥️ App Slots | Place Discord, navigateur, tracker à côté de tes tables |
+| ⌨️ Hotkeys | Raccourcis clavier globaux configurables |
+| 💡 Focus Aura | Halo lumineux sur la table active (11 effets) |
+| 📸 Screenshot | Capture en un clic sur chaque table |
+| ⏱️ Session Tracker | Timer, compteur de tables et de mains |
+| 🔄 Auto-Update | Mises à jour automatiques sans interrompre ta session |
+
+## Rooms supportées
+
+Winamax · PokerStars · Unibet · PMU · GGPoker · 888poker · PartyPoker · iPoker · CoinPoker · Ignition · WPN (ACR) · Natural8 · PPPoker
+
+## Performance
+
+- **RAM** : 80-300 Mo selon le nombre de tables
+- **CPU** : < 5% en utilisation normale
+- **Installeur** : ~10 Mo
+- **Runtime** : Aucun (Rust natif)
+
+---
+
+## Changelog
+
+Voir les [release notes](https://github.com/PnRabota/Seatify-Pro-Poker-Releases/releases) pour le détail de chaque version.
+
+## Support
+
+- 🌐 Site : [seatifypro.com](https://seatifypro.com)
+- 📖 Docs : [seatifypro.com/docs](https://seatifypro.com/docs)
+- 🐛 Bug report : Utilise le bouton "Diagnostics" dans l'app (Settings)
+
+---
+
+**Seatify Pro Poker** © 2025 — MIT License

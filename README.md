@@ -35,8 +35,8 @@ Winamax · PokerStars · Unibet · PMU · GGPoker · 888poker · PartyPoker · i
 
 ## Performance
 
-- **RAM** : 80-300 Mo selon le nombre de tables
-- **CPU** : < 5% en utilisation normale
+- **RAM** : ~25-30 Mo (même en multi-tabling)
+- **CPU** : < 2%
 - **Installeur** : ~10 Mo
 - **Runtime** : Aucun (Rust natif)
 
